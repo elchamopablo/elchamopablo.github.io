@@ -1,0 +1,163 @@
+/* body {
+	background-color: lightblue;
+	font-family: tahoma;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-element {
+	display: inline;
+	border-style:solid;
+}
+
+.list-element:hover{
+	background-color: black;
+} */
+
+body {
+	background-color: black;
+	font-family: tahoma;
+}
+
+/*article {
+	max-width: 760px;
+}*/
+
+h1, h2, h3, p, pre, li, ol, ul {
+	color: white;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:100%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.audio-container{
+	width:100%;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.list-element {
+	display: inline;
+	border-style:solid;
+}
+
+.list-element:hover{
+	background-color: white;
+}
+
+/*.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.list-element {
+	border-style:solid;
+	padding: 10px;
+	align-content: center;
+	justify-content: center;
+}
+
+.list-element:hover{
+	background-color: white;
+}*/
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+a {
+	text-decoration: none;
+	color: cornflowerblue;
+	font-weight: 800;
+}
+
+a:visited{
+	color: cornflowerblue;
+}
+
+/*.ant-container {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+}*/
+
+.quote-container{
+	margin-left: 20px;
+}
+/* body {
+	background-color: cornflowerblue;
+	font-family: tahoma;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-element {
+	display: inline;
+	border-style:solid;
+}
+
+.list-element:hover{
+	background-color: black;
+} */
+
+/* body {
+	background-color: dodgerblue;
+	font-family: tahoma;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-element {
+	display: inline;
+	border-style:solid;
+}
+
+.list-element:hover{
+	background-color: black;
+} */
+
+/* body {
+	background-color: royalblue;
+	font-family: tahoma;
+}
+.list-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list-element {
+	display: inline;
+	border-style:solid;
+}
+
+.list-element:hover{
+	background-color: black;
+} */
